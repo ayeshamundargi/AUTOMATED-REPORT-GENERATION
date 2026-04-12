@@ -26,3 +26,5 @@ After analyzing the data, the program creates a neat and organized report that s
 The main goal of this task is to save time by automating the report-making process instead of doing it manually. It helps in understanding how Python can be used for reading files, analyzing data, and generating reports easily.
 
 #Output
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1a7a005b-a416-4112-b58c-9318ef4217d1" />
