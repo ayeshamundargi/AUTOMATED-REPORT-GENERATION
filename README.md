@@ -29,3 +29,5 @@ The main goal of this task is to save time by automating the report-making proce
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1a7a005b-a416-4112-b58c-9318ef4217d1" />
 
+<img width="987" height="575" alt="Image" src="https://github.com/user-attachments/assets/56540a89-f641-4c09-a652-8c9be56ada92" />
+
