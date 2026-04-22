@@ -28,3 +28,4 @@ The main goal of this task is to save time by automating the report-making proce
 #Output
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1a7a005b-a416-4112-b58c-9318ef4217d1" />
+
